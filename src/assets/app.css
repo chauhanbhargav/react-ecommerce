@@ -1,0 +1,34 @@
+.grid_item {
+    width: auto;
+    padding: 0 !important;
+    margin: 0px !important;
+    display: flex;
+}
+
+.grid_container {
+    flex-grow: 1;
+}
+
+.MuiGrid-spacing-xs-1 {
+    width: 100% !important;
+}
+
+.card {
+    max-width: 100%;
+    margin: 10px;
+}
+
+.avatar {
+    background-color: rgb(244, 67, 54) !important;
+    display: flex;
+}
+
+.card_media {
+    height: 0;
+    padding-top: 56.25%;
+}
+
+.card_action {
+    float: right;
+    margin-right: 30px;
+}
